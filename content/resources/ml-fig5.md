@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 6f587f82-4462-0223-3ebb-c53f3e230a02
 resourcetype: Image
 title: ml-fig5.png
 uid: abdae862-82b3-d9e3-50cf-ba2897d35616
